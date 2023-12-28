@@ -1,4 +1,5 @@
 # Movie-Recommendation-System
+<img width="282" alt="tcm-logo-new" src="https://github.com/WSmolen/Movie-Recommendation-System/assets/62915659/86149826-c155-4e04-9f27-d922cffe4a53">
 
 # Business Problem
 Turner Classic Movies, launched in 1994, has been a mainstay for viewing classic films for almost 3 decades. TCM's estimated annual net revenue from cable fees is $200 Million with a budget of $20-40 Million. While still profitable the company has seen recent layoffs amidst of the merge of Warner Bros. and Discovery and the streaming landscape and viewers habits are rapidly changing. It's more important than ever to drive customer engagement with older films and in turn engagement with Turner Classic Movies. 
