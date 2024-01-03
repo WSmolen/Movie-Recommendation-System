@@ -29,5 +29,7 @@ https://www.tcm.com/
 
 ├── Notebook.ipynb         # Data Exploration and Modeling
 
+├── Presentation.pptx      # Visual Presentation for Stakeholder
+
 ├── README.md              # Guide to this Repository
 
